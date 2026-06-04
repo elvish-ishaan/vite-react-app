@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <section id="center">
+        <h1 className="text-xl">Welcome to {import.meta.env.VITE_API_URL}</h1>
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
