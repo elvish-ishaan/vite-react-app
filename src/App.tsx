@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <section id="center">
-        <h1 className="text-xl">Welcomeasnmnmdfsdf to corojijij {import.meta.env.VITE_API_URL}</h1>
+        <h1 className="text-xl">Welcomeasnmnmnmnmdfsdf to corojijij {import.meta.env.VITE_API_URL}</h1>
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
